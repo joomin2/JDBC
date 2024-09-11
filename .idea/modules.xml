@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jdbc.iml" filepath="$PROJECT_DIR$/jdbc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jdbc01.iml" filepath="$PROJECT_DIR$/jdbc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/10_java.iml" filepath="$PROJECT_DIR$/.idea/10_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc01.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc01.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc01.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc01.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc01.test.iml" />
     </modules>
